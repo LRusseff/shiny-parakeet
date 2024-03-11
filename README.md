@@ -1,6 +1,6 @@
 # 💻 Pesquisa GT 🖱️
 <h1 align="center"> Bem-vindo ao meu primeiro repositório</h1>
-😎:: Projeto em construção :trollface:
+😎 Projeto em construção :trollface:
 
 <P>Ao construir este repositório, vamos conhecer os comando do git, entender a funcionalidade de um arquivo read.me e muito mais!</P>
 
