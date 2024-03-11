@@ -1,12 +1,13 @@
 <H1 align=center>  💻 Pesquisa GT 🖱️
 <h1 align="center"> Bem-vindo ao meu primeiro repositório</h1>
-<br> 😎 Projeto em construção  😎 <br>
+</P>😎 Projeto em construção  😎 </P>
+
 
 - 🔭 I’m**a startup for software development**
 - 🌱 
 - 📫 How to reach me **lucas_russeff@estudante.sesisenai.org.br**
 - 📄 
-- 
+
 <P>Neste repositório, vamos conhecer os comando do git, entender a funcionalidade de um arquivo read.me e muito mais!</P>
 
 # 👷 Funcionalidades:
