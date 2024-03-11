@@ -1,3 +1,2 @@
-# shiny-parakeet
+💻 Pesquisa GT 🖱️
 Catapimbas
-💻 Pesquisa 🖱️
