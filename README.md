@@ -2,7 +2,7 @@
 <h1 align="center"> Bem-vindo ao meu primeiro repositório</h1>
 😎 Projeto em construção  😎
 
-<P>poksdowdo</P>
+<P>Neste repositório, vamos conhecer os comando do git, entender a funcionalidade de um arquivo read.me e muito mais!</P>
 
 # :hammer: Funcionalidades:
 
