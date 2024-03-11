@@ -4,7 +4,7 @@
 
 <P>Neste repositório, vamos conhecer os comando do git, entender a funcionalidade de um arquivo read.me e muito mais!</P>
 
-# :hammer: Funcionalidades:
+# 👷: Funcionalidades:
 
 - `F.1`: descrição da funcionalidade 1
 - `F.2`: descrição da funcionalidade 2
