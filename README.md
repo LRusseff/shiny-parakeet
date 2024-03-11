@@ -1,6 +1,6 @@
 <H1 align=center>  💻 Pesquisa GT 🖱️
 <h1 align="center"> Bem-vindo ao meu primeiro repositório</h1>
-😎 Projeto em construção  😎
+<br> 😎 Projeto em construção  😎 <br>
 
 - 🔭 I’m**a startup for software development**
 - 🌱 
