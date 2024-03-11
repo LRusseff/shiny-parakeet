@@ -8,11 +8,11 @@
 - 📫 How to reach me **lucas_russeff@estudante.sesisenai.org.br**
 - 📄 
 
-<P>Neste repositório, vamos conhecer os comando do git, entender a funcionalidade de um arquivo read.me e muito mais!</P>
+<P>Neste repositório, vamos conferir algumas Tags!</P>
 
 # 👷 Funcionalidades:
 
-- `F.1`: descrição da funcionalidade 1
-- `F.2`: descrição da funcionalidade 2
-- `F.2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `F.3`: descrição da funcionalidade 3
+- `Comando .1`: descrição da funcionalidade 1
+- `Comando .2`: descrição da funcionalidade 2
+- `Comando .3`: descrição da funcionalidade 2a relacionada à funcionalidade 2
+- `Comando .4`: descrição da funcionalidade 3
