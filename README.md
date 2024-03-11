@@ -14,4 +14,4 @@
 - `F.1`: descrição da funcionalidade 1
 - `F.2`: descrição da funcionalidade 2
 - `F.2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-F.3`: descrição da funcionalidade 3
+- `F.3`: descrição da funcionalidade 3
