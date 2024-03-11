@@ -1,7 +1,7 @@
 <H1 align=center>  💻 Pesquisa GT 🖱️
 <h1 align="center"> Bem-vindo ao meu primeiro repositório</h1>
 😎 Projeto em construção  😎
-
+<br>
 - 🔭 I’m**a startup for software development**
 - 🌱 
 - 📫 How to reach me **lucas_russeff@estudante.sesisenai.org.br**
