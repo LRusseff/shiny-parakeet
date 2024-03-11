@@ -3,16 +3,18 @@
 </P>😎 Projeto em construção  😎 </P>
 
 
-- 🔭 I’m**a software student**
+- 🔭 I’m**a T.I student**
 - 🌱 
 - 📫 How to reach me **lucas_russeff@estudante.sesisenai.org.br**
 - 📄 
 
 <P>Neste repositório, vamos conferir algumas Tags!</P>
 
-# 👷 Funcionalidades:
+# 👷 Comandos e Funcionalidades:
 
-- 🌀 `Comando .1`: descrição da funcionalidade 1
-- 🌀 `Comando .2`: descrição da funcionalidade 2
-- 🌀`Comando .3`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- 🌀`Comando .4`: descrição da funcionalidade 3
+- 🌀 `Git Init`: Começar um repositório.
+- 🌀 `Git Clone`: Clona um código de um repositório para a sua máquina para começar a trabalhar nele.
+- 🌀 `Git Status`: Para saber algumas informações sobre a ramificação que você está trabalhando agora.
+- 🌀 `Git Branch`: Cria novas branches e também pode funcionar como uma forma de verificar as ramificações já existentes.
+- 🌀 `Git Revert`: Garante a segurança dos projetos.
+- 🌀 `Git Rm`: Remove arquivos do git e para de monitorá-los.
