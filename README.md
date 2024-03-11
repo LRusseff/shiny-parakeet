@@ -2,6 +2,11 @@
 <h1 align="center"> Bem-vindo ao meu primeiro repositório</h1>
 😎 Projeto em construção  😎
 
+- 🔭 I’m currently working on **a startup for software development**
+- 🌱 I’m currently learning **Swift/SwiftUI and Kotlin**
+- 📫 How to reach me **lucas_russeff2estudante.sesisenai.org.br**
+- 📄 Know about my experiences
+- 
 <P>Neste repositório, vamos conhecer os comando do git, entender a funcionalidade de um arquivo read.me e muito mais!</P>
 
 # 👷 Funcionalidades:
