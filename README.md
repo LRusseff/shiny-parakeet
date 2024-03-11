@@ -1,2 +1,2 @@
- #💻 Pesquisa GT 🖱️
+# 💻 Pesquisa GT 🖱️
 
