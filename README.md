@@ -3,7 +3,7 @@
 </P>😎 Projeto em construção  😎 </P>
 
 
-- 🔭 I’m**a startup for software development**
+- 🔭 I’m**a software student**
 - 🌱 
 - 📫 How to reach me **lucas_russeff@estudante.sesisenai.org.br**
 - 📄 
