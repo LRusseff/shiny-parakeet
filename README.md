@@ -3,7 +3,7 @@
 </P>😎 Projeto em construção  😎 </P>
 
 
-- 🔭 I’m** a T.I student**
+- 🔭 I’m **a T.I student**
 - 📫 How to reach me **lucas_russeff@estudante.sesisenai.org.br**
 
 <P>Neste repositório, vamos conferir algumas Tags!</P>
